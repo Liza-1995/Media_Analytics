@@ -4,7 +4,6 @@ It focused on analyzing digital advertising performance across multiple campaign
 To measure ad performance across various platforms using key metrics such as impressions, clicks, conversions and cost-per-conversion.
 To identify high-performing campaigns, ad groups.
 To determine trends in audience engagement and conversion behavior.
-<img width="2267" height="310" alt="image" src="https://github.com/user-attachments/assets/281a1074-8a7a-4f43-8d2b-82b09c39ef09" />
 
 Project Overview
 Created an interactive Power BI dashboard that is divided into three main sections: Home, Loan Overview, and Loan Segmentation.
